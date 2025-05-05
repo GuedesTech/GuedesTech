@@ -1,6 +1,6 @@
 ## Oii eu sou o Guilherme Guedes.
 
-<p><b>👨‍💻 Estudante de ADS | Germinare Tech | Apaixonado por Tech <br></b>
+<p><b>👨‍💻 Estudante de ADS | Germinare Tech <br></b>
 <br>
 Fazendo ADS na Germinare Tech e curtindo cada passo dessa jornada! Me interesso tanto por <b>Front-end</b> quanto por <b>Back-end</b></p>
 
