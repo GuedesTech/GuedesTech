@@ -4,18 +4,18 @@
 <br>
 Fazendo ADS na Germinare Tech e curtindo cada passo dessa jornada! Me interesso tanto por <b>Front-end</b> quanto por <b>Back-end</b></p>
 
-<p>Minhas linguagens do coração são <b>Python e Java</b>, mas sempre tô fuçando algo novo pra aprender. Tecnologia pra mim é isso: evolução constante e muita mão na massa!</p>
+<p>Minhas principais linguagens são <b>Python e Java</b>, mas sempre tô fuçando algo novo pra aprender.</p>
 
 <br>
 
 <div> 
   <p><b>🌟 O que me motiva?</b><br>
   <br>
-  ✔ Transformar ideias em projetos reais (e funcionando, claro!) <br>
+  ✔ Transformar ideias em projetos reais. <br>
   <br>  
-  ✔ Aprender ferramentas novas <br>
+  ✔ Aprender ferramentas novas.<br>
   <br>
-  ✔ Colaborar em projetos legais – seja open source ou com a galera</p>
+  ✔ Colaborar em projetos legais.</p>
 </div>
 
 
