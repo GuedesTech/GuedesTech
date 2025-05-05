@@ -4,7 +4,7 @@
 <br>
 Fazendo ADS na Germinare Tech e curtindo cada passo dessa jornada! Me interesso tanto por <b>Front-end</b> quanto por <b>Back-end</b></p>
 
-<p>Minhas principais linguagens são <b>Python e Java</b>, mas sempre tô fuçando algo novo pra aprender.</p>
+<p>Minhas principais linguagens são <b>Python e Java</b>, mas sempre buscando algo novo.</p>
 
 <br>
 
