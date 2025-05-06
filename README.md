@@ -8,16 +8,6 @@ Fazendo ADS na Germinare Tech e curtindo cada passo dessa jornada! Me interesso 
 
 <br>
 
-<div> 
-  <p><b>🌟 O que me motiva?</b><br>
-  <br>
-  ✔ Transformar ideias em projetos reais. <br>
-  <br>  
-  ✔ Aprender ferramentas novas.<br>
-  <br>
-  ✔ Colaborar em projetos legais.</p>
-</div>
-
 
 ##
 
