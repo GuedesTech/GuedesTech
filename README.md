@@ -6,9 +6,6 @@ Fazendo ADS na Germinare Tech e curtindo cada passo dessa jornada! Me interesso 
 
 <p>Minhas principais linguagens são <b>Python e Java</b>, mas sempre buscando algo novo.</p>
 
-<br>
-
-
 ##
 
 <div style="display: inline_block"><br>
