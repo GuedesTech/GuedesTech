@@ -1,10 +1,8 @@
-## Oii eu sou o Guilherme Guedes.
+## Hi, my name is Guilherme Guedes.
 
-<p><b>👨‍💻 Estudante de ADS | Germinare Tech <br></b>
-<br>
-Fazendo ADS na Germinare Tech e curtindo cada passo dessa jornada! Me interesso tanto por <b>Front-end</b> quanto por <b>Back-end</b></p>
+<p><b>👨‍💻 Student of ADS | Germinare Tech<br></b>
 
-<p>Minhas principais linguagens são <b>Python e Java</b>, mas sempre buscando algo novo.</p>
+<p>My main languages are <b>Python and Java</b>, but I'm always exploring something new.</p>
 
 ##
 
