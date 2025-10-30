@@ -2,8 +2,6 @@
 
 <p><b>👨‍💻 Student of ADS | Germinare Tech<br></b>
 
-<p>My main languages are <b>Python and Java</b>, but I'm always exploring something new.</p>
-
 ## Skills
 <a href="https://github.com/GuedesTech"><img src="https://skillicons.dev/icons?i=html,css,python,java,postgresql,docker,git,github"></a>
 
