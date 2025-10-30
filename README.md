@@ -10,7 +10,7 @@
 
 
 ## Interests
-<a href="https://github.com/GuedesTech"><img src="https://skillicons.dev/icons?i=mongo,kotlin,vue,sh"></a>
+<a href="https://github.com/GuedesTech"><img src="https://skillicons.dev/icons?i=mongo,kotlin,vue,sh,swift"></a>
 
 ## Stats
 <div>
