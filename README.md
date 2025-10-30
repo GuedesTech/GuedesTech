@@ -1,7 +1,7 @@
-<p><b>👨‍💻 Student of ADS | Germinare Tech<br></b>
-
-System.out.println("Welcome to my github!");
-
+<p>👨‍💻 Student of ADS | Germinare Tech<br>
+  
+##
+  
 ## Skills
 <a href="https://github.com/GuedesTech"><img src="https://skillicons.dev/icons?i=html,css,python,java,postgresql,docker,git,github"></a>
 
