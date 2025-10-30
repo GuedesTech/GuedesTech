@@ -1,5 +1,3 @@
-<p>I am a developer and High school student. My main languages is <b>Java</b>, but I am always exploring something new.
-
 <p><b>👨‍💻 Student of ADS | Germinare Tech<br></b>
 
 ## Skills
