@@ -6,4 +6,4 @@
 
 
 ## Interests
-<a href="https://github.com/GuedesTech"><img src="https://skillicons.dev/icons?i=react,cs"></a>
+<a href="https://github.com/GuedesTech"><img src="https://skillicons.dev/icons?i=react,ts,cs,go"></a>
